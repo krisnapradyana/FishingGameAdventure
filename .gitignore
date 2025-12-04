@@ -1,0 +1,34 @@
+# Unity
+.DS_Store
+*.pidb
+*.pdb
+*.meta
+*.unityproj
+*.suo
+*.userprefs
+*.sln
+*.csproj
+*.unitypackage
+
+# Build files
+Build/
+Temp/
+Library/
+Obj/
+Logs/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+
+# macOS
+.DS_Store
+
+# Package Cache (if not managed by Unity Version Control)
+PackageCache/
+
+# Player data cache
+Library/PlayerDataCache/
+
+# Crash reports
+CrashReports/
